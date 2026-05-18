@@ -1,5 +1,5 @@
-# Nom : GADIO
-# : AISSATA
+#  GADIO
+#  AISSATA
 # Email : kitsydiallo@hotmail.com
 # Téléphone : 06 67165201
 # Ville : COLOMBES
